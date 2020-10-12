@@ -6,7 +6,7 @@
 
 Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studing at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
 
-- I love sport 🏄‍♂️🚴‍♂️🎣 and reading 📚.
+- I love nature 🎣🌲, sport 💪 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
 - I'm an Open Source enthusiast.
 
@@ -37,7 +37,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" alt="powershell" width="40" height="40"/>
+<img src="https://fr.wikipedia.org/wiki/Bourne-Again_shell#/media/Fichier:Gnu-bash-logo.svg" alt="powershell" width="40" height="40"/>
 
 <!-- Containers -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/> -->
