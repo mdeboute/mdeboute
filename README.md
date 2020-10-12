@@ -8,7 +8,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 
 - I love nature 🎣🌲, sport 💪 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
-- I'm an Open Source enthusiast.
+- I'm an Open Source enthusiast 🤠.
 
 ## 📧 Contact me
 
