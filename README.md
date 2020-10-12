@@ -26,6 +26,9 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <!-- Java -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="java" width="40" height="40"/>
 
+<!-- LaTeX -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg" alt="latex" width="40" height="40"/>
+
 <!-- Front End -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="css3" width="40" height="40"/>
@@ -51,6 +54,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <!-- Other Tools -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="discord" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibm.svg" alt="ibm" width="40" height="40"/>
 </p>
 
 <!-- profile links -->
