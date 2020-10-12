@@ -12,7 +12,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![mail_badge]](mailto:martin.deboute@etu.u-bordeaux.fr) [![linkedin_badge]][linkedin]
+[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]
 
 ## 🔮 Tools, Technologies and Languages
 <p>
@@ -37,7 +37,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-<img src="https://fr.wikipedia.org/wiki/Bourne-Again_shell#/media/Fichier:Gnu-bash-logo.svg" alt="powershell" width="40" height="40"/>
+<img src="https://fr.wikipedia.org/wiki/Bourne-Again_shell#/media/Fichier:Gnu-bash-logo.svg" alt="bash" width="40" height="40"/>
 
 <!-- Containers -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/> -->
@@ -52,20 +52,10 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="discord" width="40" height="40"/>
 </p>
 
-## ✨GitHub Stats & Most Used Languages
-<!-- https://github.com/mdeboute/github-readme-stats -->
-![github stats][github_stats]
-![most used languages][top_languages]
-
 <!-- profile links -->
 [github_profile]: https://github.com/mdeboute "Github Profile"
-[linkedin]: linkedin.com/in/mdeboute "Linkedin Profile"
+[linkedin]: https://linkedin.com/in/mdeboute "Linkedin Profile"
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
-[mail_badge]: https://img.shields.io/badge/-martin.deboute%40etu.u-bordeaux.fr-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@etu.u-bordeaux.fr
 [linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
-
-<!-- meta -->
-[github_stats]: https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true "User Statistics"
-[top_languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=mdeboute&layout=compact "Most Used Languages"
