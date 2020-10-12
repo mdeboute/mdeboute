@@ -37,7 +37,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-<img src="https://fr.wikipedia.org/wiki/Bourne-Again_shell#/media/Fichier:Gnu-bash-logo.svg" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/>
 
 <!-- Containers -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/> -->
@@ -50,6 +50,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 
 <!-- Other Tools -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="discord" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" alt="apple" width="40" height="40"/>
 </p>
 
 <!-- profile links -->
