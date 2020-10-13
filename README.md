@@ -46,7 +46,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/>
 
 <!-- Containers -->
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/>
 
 <!-- IDE/Editor -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/>
