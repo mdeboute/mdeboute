@@ -29,6 +29,9 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <!-- LaTeX -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg" alt="latex" width="40" height="40"/>
 
+<!-- Markdown -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/>
+
 <!-- Front End -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="css3" width="40" height="40"/>
