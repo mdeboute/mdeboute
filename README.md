@@ -43,7 +43,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
  
 <!-- Containers -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg" alt="heroku" width="40" height="40"/>
