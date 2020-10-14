@@ -60,6 +60,8 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ibm.svg" alt="ibm" width="40" height="40"/>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true" alt="mdeboute" /></p>
+
 <!-- profile links -->
 [github_profile]: https://github.com/mdeboute "Github Profile"
 [linkedin]: https://linkedin.com/in/mdeboute "Linkedin Profile"
