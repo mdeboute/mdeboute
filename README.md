@@ -6,7 +6,7 @@
 
 Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studing at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
 
-- I love nature 🎣🌲, sport 💪 and reading 📚.
+- I love nature 🚴‍♂️🎣🌲, sport 💪, guitar 🎸 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
 - I'm an Open Source enthusiast 🤠.
 
