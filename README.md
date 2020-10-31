@@ -13,31 +13,9 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 
 [![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]
 
-<h3 align="left">🔮 Tools, Technologies and Languages</h3>
+## 🔮 Tools, Technologies and Languages
 
-<!-- Python -->
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- 
-<!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-
-<!-- LaTeX -->
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg" alt="latex" width="40" height="40"/> </a>
-
-<!-- Markdown -->
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/> </a>
-
-<!-- IDE/Editor -->
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> </a>
-
-<a href="https://atom.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg" alt="atom" width="40" height="40"/> </a>
-
-<a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intellijidea.svg" alt="intellijidea" width="40" height="40"/> </a>
-
-<a href="https://www.vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" alt="vim" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/latex.svg" alt="latex" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/markdown.svg" alt="markdown" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://atom.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg" alt="atom" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intellijidea.svg" alt="intellijidea" width="40" height="40"/> </a> <a href="https://www.vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" alt="vim" width="40" height="40"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true" alt="mdeboute" /></p>
