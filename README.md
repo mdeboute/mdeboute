@@ -17,7 +17,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 ## 🔮 Tools, Technologies and Languages
 
 <!-- Python -->
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  
 <!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -38,7 +38,7 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 
 <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intellijidea.svg" alt="intellijidea" width="40" height="40"/> </a>
 
-<a href="https://www.vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" alt="vim" width="40" height="40"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true" alt="mdeboute" /></p>
