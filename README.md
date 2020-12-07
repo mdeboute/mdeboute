@@ -9,9 +9,9 @@ Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm cu
 - I like to travel and I like to have new opportunities 🛫.
 - I'm an Open Source enthusiast 🤠.
 
-## 📧 Contact me ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+## 📧 Contact me
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]
+[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
 
 ## 🔮 Tools, Technologies and Languages
 
