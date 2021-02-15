@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Martin Debouté
 
-Hi, i'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
+I'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer.
 
 - I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
