@@ -4,10 +4,9 @@
 
 I'm an french guy with an interest in programming & mathematics 💻. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer (decision support).
 
-- I love nature 🎣🌲, sport 💪, guitar 🎸 and reading 📚
-- I enjoy learning new stuff and making notes 📄
+- I enjoy learning new stuff 📄
 - I like to travel and I like to have new opportunities 🛫
-- I'm an Open Source enthusiast 🤠
+- I'm an Open Source enthusiast !
 
 ## 📧 Contact me
 
