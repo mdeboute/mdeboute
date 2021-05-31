@@ -6,7 +6,7 @@ I'm an french guy with an interest in programming & mathematics. I'm currently s
 
 - I enjoy learning new stuff 📄
 - I like to travel and I like to have new opportunities 🛫
-- I'm an Open Source enthusiast !
+- I'm an Open Source enthusiast!
 
 ## 📧 Contact me
 
