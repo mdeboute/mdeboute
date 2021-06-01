@@ -10,7 +10,7 @@ I'm an french guy with an interest in programming & mathematics. I'm currently s
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin] [![visitors](https://komarev.com/ghpvc/?username=mdeboute&style=flat-square)](https://github.com/mdeboute)
 
 ## 🔮 Tools, Technologies and Languages
 
