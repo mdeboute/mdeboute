@@ -20,7 +20,7 @@ I'm an french guy with an interest in programming & mathematics. I'm currently s
 <!-- Most logos are from https://github.com/devicons/devicon -->
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mdeboute&show_icons=true) -->
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdeboute&layout=compact&v=2)](https://wakatime.com/@mdeboute)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdeboute&layout=compact&v=2)](https://wakatime.com/@mdeboute)
 
 <!-- profile links -->
 [github_profile]: https://github.com/mdeboute "Github Profile"
