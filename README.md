@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Martin Debouté
 
-I'm an french guy with an interest in programming & mathematics. I'm currently studying at <!-- [University of Bordeaux](https://www.u-bordeaux.fr) -->[Linnaeus University](https://lnu.se/en/) to deepen my optimization skills in the area of financial mathematics, continue my learning in AI skills and learn more about cryptographic mechanisms. <!-- become an Operations Research Engineer (decision support) -->
+I'm an french guy with an interest in programming & mathematics. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer (decision support).
 
 - I enjoy learning new stuff 📄
 - I like to travel and I like to have new opportunities 🛫
