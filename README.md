@@ -1,6 +1,6 @@
 <!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hi 👋, I'm Martin Debouté
+# Hello world! 👋
 
 I'm a french guy with an interest in programming & mathematics. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer for decision support.
 
