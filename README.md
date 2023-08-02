@@ -1,8 +1,8 @@
-<!-- **mdeboute/mdeboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hello world! 👋
 
-I'm a french guy with an interest in programming & mathematics. I'm currently studying at [University of Bordeaux](https://www.u-bordeaux.fr) to become an Operations Research Engineer for decision support.
+I'm a french guy with an interest in programming & mathematics. I've studied at [University of Bordeaux](https://www.u-bordeaux.fr).
 
 - I enjoy learning new stuff 📄
 - I like to travel and I like to have new opportunities 🛫
