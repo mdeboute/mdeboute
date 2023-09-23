@@ -2,11 +2,13 @@
 
 # Hello world! 👋
 
-I'm a french guy with an interest in programming & mathematics. I've studied at [University of Bordeaux](https://www.u-bordeaux.fr).
+I'm Martin, a young engineer with a passion for operations research and optimization for decision support. I'm convinced that my field of expertise can make a significant contribution to improving our society.
 
-- I enjoy learning new stuff 📄
-- I like to travel and I like to have new opportunities 🛫
-- I'm an Open Source enthusiast!
+🎯 My main aspiration is to promote operational research as an essential tool for making informed decisions in all fields. My commitment is to deploy my skills to contribute to this goal. I'm also interested in other related disciplines, for me continuing education is necessary to stay relevant in this ever-changing world.
+
+🌍 Outside of work, you'll often find me playing sports. I firmly believe that the balance between the physical and the intellectual is essential. So whether it's solving equations or playing sport, I'm always up for a new challenge!
+
+🤝 I'm open to new collaborations and exploring innovative projects. So if you share my vision and believe as I do in the potential of optimization to create a positive impact in this world, please don't hesitate to contact me.
 
 ## 📧 Contact me
 
