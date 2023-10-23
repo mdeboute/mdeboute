@@ -10,9 +10,9 @@ I'm Martin, a young engineer with a passion for operations research and optimiza
 
 🤝 I'm open to new collaborations and exploring innovative projects. So if you share my vision and believe as I do in the potential of optimization to create a positive impact in this world, please don't hesitate to contact me.
 
-## 📧 Contact me
+<!-- ## 📧 Contact me
 
-[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin] [![visitors](https://komarev.com/ghpvc/?username=mdeboute&style=flat-square)](https://github.com/mdeboute)
+[![gmail_badge]](mailto:martin.deboute@gmail.com) [![linkedin_badge]][linkedin] [![visitors](https://komarev.com/ghpvc/?username=mdeboute&style=flat-square)](https://github.com/mdeboute) -->
 
 ## 🔮 Tools, Technologies and Languages
 
