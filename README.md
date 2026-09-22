@@ -2,7 +2,7 @@
 
 # Hello world! 👋
 
-I'm Martin, a french engineer specialized in operations research (OR) and optimization for decision support. I have extensive experience in Python for the development of operational solutions and mathematical modeling. I have particularly strong experience in the energy sector, modeling energy systems, and market design.
+I'm Martin, an operations research engineer specializing in large-scale optimization and mathematical programming, with hands-on experience deploying decision-support systems and a strong client-facing dimension: translating complex business needs into deployed technical solutions for enterprise accounts (energy, oil & gas, transportation).
 
 🎯 My main aspiration is to promote OR as an essential tool for making informed decisions in all fields.
 
